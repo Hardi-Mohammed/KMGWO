@@ -20,3 +20,11 @@ A new K-means grey wolf algorithm for engineering problems
 % % we improved the code of GWO which have been written by mirjalili % % then we hybridize GWO algorithm with K-means. % %%
 % disclaimer CODE of  GWO are taken from mirjalili website project
 % code which is: http://www.alimirjalili.com/Projects.html 
+
+
+How it works:
+You only need to Run the main.m using matlab software
+then you can see the results
+by running the main file KMGWO runs 30 time ( each time includes 500 iterations)
+Results prints 30 best_Score and then shows the average of them
+all files must be in the same directory.
